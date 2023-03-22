@@ -10,6 +10,3 @@ for (const a of Name)
     console.log(a);
 }
 
-
-
-

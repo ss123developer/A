@@ -242,3 +242,10 @@ switch (true) {
         console.log("You can't afford a mobile phone now");
 }*/
 
+
+
+
+
+
+
+
