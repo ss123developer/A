@@ -7,7 +7,7 @@ a = 5;
 console.log(a);*/
 
 const StudentName = "SHYAM";
-const Tamil = 92;
+const Tamil = 82;
 const English = 71;
 const Maths = 78;
 const Science = 85;
